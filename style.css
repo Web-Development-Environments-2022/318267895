@@ -10,20 +10,21 @@
 }
 
 #menu a{
-	padding: 30px 60px;
+	padding: 30px 30px;
 	color: black;
 }
 
 #menu a:hover {
 	background-color: black;
 	color: #99bbff;
-	padding: 30px 60px;
+	padding: 30px 30px;
   }
 
 section{
 	font-family: 'Franklin Gothic Medium';
 	font-size: 18px;
 	width: 100%;
+	text-align: center;
   }
 
 #about{
