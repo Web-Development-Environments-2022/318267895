@@ -2,6 +2,46 @@
 {
 	position: fixed;
 	width: 100%;
-	height: 35px;
-	background: white;
+	background: #99bbff;
+	text-align: center;
+	padding: 30px 30px;
+	font-size: 20px;
+	font-family: fantasy;
 }
+
+#menu a{
+	padding: 30px 60px;
+	color: black;
+}
+
+#menu a:hover {
+	background-color: black;
+	color: #99bbff;
+	padding: 30px 60px;
+  }
+
+section{
+	font-family: 'Franklin Gothic Medium';
+	font-size: 18px;
+	width: 100%;
+  }
+
+#about{
+	background: #e6f2ff;
+  }
+#playlist{
+	background: #e6f2ff;
+  }
+#qrcoder{
+	background: #e6f2ff;
+  }
+#contact{
+	background: #e6f2ff;
+  }
+
+  h1{
+	color: #99bbff;
+	font-size: 35px;
+	font-family: Papyrus;
+	text-align: center;
+  }
