@@ -29,6 +29,7 @@ section{
 
 #about{
 	background: #e6f2ff;
+	text-align: center; /*check*/
   }
 #playlist{
 	background: #e6f2ff;
@@ -40,7 +41,7 @@ section{
 	background: #e6f2ff;
   }
 
-  h1{
+h1{
 	color: #99bbff;
 	font-size: 35px;
 	font-family: Papyrus;
