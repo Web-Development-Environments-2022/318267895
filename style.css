@@ -28,7 +28,7 @@ section{
 
 #about{
 	background: #e6f2ff;
-	text-align: center; /*check*/
+	text-align: center;
   }
 #playlist{
 	background: #e6f2ff;
@@ -61,20 +61,6 @@ input[type=text]:focus {
 	background-color: #ccddff;
   }
 
-textarea{
-	width: 30%;
-	text-align: center;
-	margin: 3px 0;
-	font-family:  'Franklin Gothic Medium';
-	font-size: 18px;
-	border-radius: 10px;
-	padding: 50px 10px;
-}
-
-textarea:focus {
-	background-color: #ccddff;
-  }
-
 input[type=submit]{
 	font-family:  'Franklin Gothic Medium';
 	font-size: 18px;
@@ -82,22 +68,19 @@ input[type=submit]{
 	background: #99bbff;
 	padding: 10px 30px;
 	margin: 0 10px;
-	width: 14%;
 }
-
-input[type=reset]{
-	font-family:  'Franklin Gothic Medium';
-	font-size: 18px;
-	border-radius: 10px;
-	background: #99bbff;
-	padding: 10px 30px;
-	width: 14%;
-}
-
-input[type=reset]:hover {
-	background-color: #ccddff;
-  }
 
 input[type=submit]:hover {
 	background-color: #ccddff;
   }
+
+form{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.container{
+	width: 31%;
+	font-family:  'Franklin Gothic Medium';
+}
