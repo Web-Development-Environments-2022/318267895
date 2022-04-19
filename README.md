@@ -20,5 +20,5 @@ In this page there are a few sections:
 <h2>My details:</h2>
 <b>Name:</b> Shiri Itach <br/>
 <b>Username:</b> shiriit <br/>
-<b>Id:</b> 318267895 <br/>
+<b>Id:</b> ********* <br/>
 <b>Website Address:</b> https://web-development-environments-2022.github.io/assignment1-shiriit/ <br/>
